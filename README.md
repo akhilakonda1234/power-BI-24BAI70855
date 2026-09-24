@@ -2,8 +2,8 @@
 
 ##  Student Information
 
-**Name:** Akhila
-**UID:** 24BAI70855
+**Name:** Akhila 
+**UID:** 24BAI70855 
 **University:** Chandigarh University  
 **Program:** B.Tech – Artificial Intelligence and Machine Learning
 ---
